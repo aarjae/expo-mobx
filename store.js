@@ -14,7 +14,6 @@ class Store {
     remove() {
         this.requests.pop();
     }
-    
 }
 
 const store = new Store();
